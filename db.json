@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Customer": 6
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Customer": {
+      "1": "{\"first-name\":\"Peter\",\"last-name\":\"Smith\",\"birthday\":\"1996-10-12\",\"gender\":\"m\",\"last-contacted\":\"2013-06-01\",\"value\":119.12,\"id\":1}",
+      "2": "{\"first-name\":\"Anna\",\"last-name\":\"Hopp\",\"birthday\":\"1987-05-03\",\"gender\":\"w\",\"last-contacted\":\"2013-07-08\",\"value\":50.99,\"id\":2}",
+      "3": "{\"first-name\":\"Christoan\",\"last-name\":\"Cox\",\"birthday\":\"1991-02-21\",\"gender\":\"m\",\"last-contacted\":\"2013-08-01\",\"value\":0,\"id\":3}",
+      "4": "{\"first-name\":\"Roxy\",\"last-name\":\"Fox\",\"birthday\":\"1979-06-30\",\"gender\":\"w\",\"last-contacted\":\"2012-01-09\",\"value\":213.12,\"id\":4}",
+      "5": "{\"first-name\":\"Eric\",\"last-name\":\"Adam\",\"birthday\":\"1969-11-21\",\"gender\":\"m\",\"last-contacted\":\"2013-03-18\",\"value\":1019.91,\"id\":5}"
+    }
+  }
+}

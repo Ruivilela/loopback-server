@@ -6,7 +6,7 @@
     "validateUpsert": true
   },
   "properties": {
-    "name": {
+    "first-name": {
       "type": "string",
       "required": true
     },
@@ -14,11 +14,17 @@
       "type": "string",
       "required": true
     },
-    "age": {
-      "type": "number"
+    "birthday":{
+      "type":"string"
     },
     "gender": {
       "type": "string"
+    },
+    "last-contacted":{
+      "type": "string"
+    },
+    "value":{
+      "type": "number"
     }
   },
   "validations": [],
