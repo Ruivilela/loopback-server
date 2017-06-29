@@ -38,5 +38,9 @@
   "Customer": {
     "dataSource": "db",
     "public": true
+  },
+  "NavigationData": {
+    "dataSource": "db",
+    "public": true
   }
 }
