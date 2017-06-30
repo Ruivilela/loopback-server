@@ -19,7 +19,7 @@
       "2": "{\"firstName\":\"Anna\",\"lastName\":\"Hopp\",\"birthday\":\"1987-05-03\",\"gender\":\"w\",\"lastContacted\":\"2013-07-08\",\"value\":50.99,\"id\":2}",
       "3": "{\"firstName\":\"Christoan\",\"lastName\":\"Cox\",\"birthday\":\"1991-02-21\",\"gender\":\"m\",\"lastContacted\":\"2013-08-01\",\"value\":0,\"id\":3}",
       "4": "{\"firstName\":\"Roxy\",\"lastName\":\"Fox\",\"birthday\":\"1979-06-30\",\"gender\":\"w\",\"lastContacted\":\"2012-01-09\",\"value\":213.12,\"id\":4}",
-      "5": "{\"firstName\":\"Eric\",\"lastName\":\"Adam\",\"birthday\":\"1969-11-21\",\"gender\":\"m\",\"lastCcontacted\":\"2013-03-18\",\"value\":1019.91,\"id\":5}"
+      "5": "{\"firstName\":\"Eric\",\"lastName\":\"Adam\",\"birthday\":\"1969-11-21\",\"gender\":\"m\",\"lastCcontacted\":\"2013-03-18\",\"value\":1019.91,\"id\":5,\"lastContacted\":\"2013-03-18\"}"
     },
     "NavigationData": {
       "1": "{\"customerID\":1,\"pages\":\"A\",\"TimeStamp\":\"2013-06-01 10:10:12\",\"id\":1}",
