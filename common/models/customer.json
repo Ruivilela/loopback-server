@@ -7,12 +7,10 @@
   },
   "properties": {
     "firstName": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "lastName": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "birthday": {
       "type": "string"
